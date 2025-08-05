@@ -46,7 +46,7 @@ html, body, a, button {
     --color-header-bg: rgba(21, 10, 54, 0.7);
     --color-accent-solid: #f472b6;
     --accent-rgb: 244, 114, 182;
-    --accent-gradient: linear-gradient(90deg, #f472b6, #fb923c);
+    --accent-gradient: linear-gradient(90deg, #72fff8, #49b1fb);
     --color-cursor-bg: rgba(230, 230, 230, 0.4);
     --color-card-bg: rgba(42, 14, 105, 0.25);
     --color-card-bg-hover: rgba(60, 20, 138, 0.4);
